@@ -11,7 +11,7 @@ import { RecipeService } from './recipe.service';
 export class RecipesComponent implements OnInit {
   loadedRecipeData: Recipe;
 
-  constructor() {}
+constructor() {}
 
   ngOnInit() {
 
